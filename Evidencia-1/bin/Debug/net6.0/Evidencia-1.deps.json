@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Evidencia-1/1.0.0": {
+        "runtime": {
+          "Evidencia-1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evidencia-1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

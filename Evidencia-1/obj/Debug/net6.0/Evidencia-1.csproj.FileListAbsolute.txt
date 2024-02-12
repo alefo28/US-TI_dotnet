@@ -1,0 +1,15 @@
+D:\proyectos\CDIS\.net\Evidencia-1\bin\Debug\net6.0\Evidencia-1.exe
+D:\proyectos\CDIS\.net\Evidencia-1\bin\Debug\net6.0\Evidencia-1.deps.json
+D:\proyectos\CDIS\.net\Evidencia-1\bin\Debug\net6.0\Evidencia-1.runtimeconfig.json
+D:\proyectos\CDIS\.net\Evidencia-1\bin\Debug\net6.0\Evidencia-1.dll
+D:\proyectos\CDIS\.net\Evidencia-1\bin\Debug\net6.0\Evidencia-1.pdb
+D:\proyectos\CDIS\.net\Evidencia-1\obj\Debug\net6.0\Evidencia-1.csproj.AssemblyReference.cache
+D:\proyectos\CDIS\.net\Evidencia-1\obj\Debug\net6.0\Evidencia-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\CDIS\.net\Evidencia-1\obj\Debug\net6.0\Evidencia-1.AssemblyInfoInputs.cache
+D:\proyectos\CDIS\.net\Evidencia-1\obj\Debug\net6.0\Evidencia-1.AssemblyInfo.cs
+D:\proyectos\CDIS\.net\Evidencia-1\obj\Debug\net6.0\Evidencia-1.csproj.CoreCompileInputs.cache
+D:\proyectos\CDIS\.net\Evidencia-1\obj\Debug\net6.0\Evidencia-1.dll
+D:\proyectos\CDIS\.net\Evidencia-1\obj\Debug\net6.0\refint\Evidencia-1.dll
+D:\proyectos\CDIS\.net\Evidencia-1\obj\Debug\net6.0\Evidencia-1.pdb
+D:\proyectos\CDIS\.net\Evidencia-1\obj\Debug\net6.0\Evidencia-1.genruntimeconfig.cache
+D:\proyectos\CDIS\.net\Evidencia-1\obj\Debug\net6.0\ref\Evidencia-1.dll
