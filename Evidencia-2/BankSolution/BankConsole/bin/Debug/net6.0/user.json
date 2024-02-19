@@ -1,16 +1,42 @@
 [
-  {
-    "ID": 1,
-    "Name": "Alef",
-    "Email": "alef@mail.com",
-    "Balance": 4000.0,
-    "RegisterDate": "2024-02-18T19:54:29.538575-06:00"
-  },
-  {
-    "ID": 2,
-    "Name": "Pedro",
-    "Email": "pedro@mail.com",
-    "Balance": 2500.0,
-    "RegisterDate": "2024-02-18T19:54:29.7965916-06:00"
-  }
-]
+    {
+      "TaxRegime": "M",
+      "ID": 5,
+      "Name": "pedro",
+      "Email": "pedro@outlook.es",
+      "balance": 4080.0,
+      "RegisterDate": "2023-03-25T21:18:01.1653562-06:00"
+    },
+    {
+      "Department": "IT",
+      "ID": 6,
+      "Name": "Alan",
+      "Email": "ALAN@gmail.COM",
+      "balance": 4200.0,
+      "RegisterDate": "2023-03-25T21:18:01.4106609-06:00"
+    },
+    {
+      "Department": "IT",
+      "ID": 90,
+      "Name": "juan",
+      "Email": "juan@gmail.com",
+      "balance": 9450.0,
+      "RegisterDate": "2023-03-26T00:02:19.6707385-06:00"
+    },
+    {
+      "TaxRegime": "M",
+      "ID": 100,
+      "Name": "miguel",
+      "Email": "miguel@gmail.es",
+      "balance": 9180.0,
+      "RegisterDate": "2023-03-26T00:36:31.8542917-06:00"
+    },
+    {
+      "TaxRegime": "M",
+      "ID": 50,
+      "Name": "alef",
+      "Email": "alef@gmail.com",
+      "balance": 5100.0,
+      "RegisterDate": "2023-03-26T01:28:48.237877-06:00"
+    }
+  ]
