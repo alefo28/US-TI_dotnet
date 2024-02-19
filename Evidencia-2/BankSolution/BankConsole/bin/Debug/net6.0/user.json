@@ -1,19 +1,11 @@
 [
   {
-    "TaxRegime": "M",
-    "ID": 5,
-    "Name": "pedro",
-    "Email": "pedro@outlook.es",
-    "balance": 4080.0,
-    "RegisterDate": "2023-03-25T21:18:01.1653562-06:00"
-  },
-  {
     "Department": "IT",
     "ID": 6,
     "Name": "Alan",
     "Email": "ALAN@gmail.COM",
     "balance": 4200.0,
-    "RegisterDate": "2023-03-25T21:18:01.4106609-06:00"
+    "RegisterDate": "2024-01-25T21:18:01.4106609-06:00"
   },
   {
     "Department": "IT",
@@ -21,15 +13,7 @@
     "Name": "juan",
     "Email": "juan@gmail.com",
     "balance": 9450.0,
-    "RegisterDate": "2023-03-26T00:02:19.6707385-06:00"
-  },
-  {
-    "TaxRegime": "M",
-    "ID": 100,
-    "Name": "miguel",
-    "Email": "miguel@gmail.es",
-    "balance": 9180.0,
-    "RegisterDate": "2023-03-26T00:36:31.8542917-06:00"
+    "RegisterDate": "2024-01-26T00:02:19.6707385-06:00"
   },
   {
     "TaxRegime": "M",
@@ -37,6 +21,22 @@
     "Name": "alef",
     "Email": "alef@gmail.com",
     "balance": 5100.0,
-    "RegisterDate": "2023-03-26T01:28:48.237877-06:00"
+    "RegisterDate": "2024-01-26T01:28:48.237877-06:00"
+  },
+  {
+    "TaxRegime": "M",
+    "ID": 555,
+    "Name": "Daniel",
+    "Email": "daniel@gmail.com",
+    "balance": 6630.0,
+    "RegisterDate": "2024-02-18T21:12:09.1099868-06:00"
+  },
+  {
+    "TaxRegime": "M",
+    "ID": 650,
+    "Name": "Juan",
+    "Email": "Juan1@gmai.com",
+    "balance": 7140.0,
+    "RegisterDate": "2024-02-18T21:16:04.7270856-06:00"
   }
 ]
