@@ -26,7 +26,7 @@ public static class EmailService
             /*servidor del correo, puerto, y su usaremos SSL*/
             client.Connect("smtp.gmail.com", 587, false);
             /**/
-            client.Authenticate("alefbenps@gmail.com", "070819Tcad");
+            client.Authenticate("alefbenps@gmail.com", "lrje zczt otdg ncxv");
             client.Send(message);
             client.Disconnect(true);
         }

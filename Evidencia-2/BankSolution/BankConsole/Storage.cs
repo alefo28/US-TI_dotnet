@@ -6,7 +6,7 @@ namespace BankConsole;
 public static class Storage
 {
     /*directorio base de la aplicacion*/
-    static string filePath = AppDomain.CurrentDomain.BaseDirectory + @"\users.json";
+    static string filePath = AppDomain.CurrentDomain.BaseDirectory + @"user.json";
 
     public static void AddUser(User user)
     {
@@ -34,8 +34,6 @@ public static class Storage
         json = JsonConvert.SerializeObject(listUsers, settings);
         /**/
         File.WriteAllText(filePath, json);
-
-        
     }
 
     public static List<User> GetNewUsers()
@@ -125,7 +123,6 @@ public static class Storage
     {
         string usersInFile = "";
         var listUsers = new List<User>();
-
         if (File.Exists(filePath))
         {
             usersInFile = File.ReadAllText(filePath);
@@ -156,6 +153,7 @@ public static class Storage
         /*single trae el unico registro que cumpla la condicion*/
 
         var ID_validar = listUsers.SingleOrDefault(user => user.GetID() == ID);
+
         if (ID_validar != null)
         {
             return false;
